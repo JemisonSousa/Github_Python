@@ -1,0 +1,8 @@
+instalar o PyInstaller se náo tiver instaaldo
+
+abrir o caminho do arquivo no Terminal
+
+digitar:
+pyinstaller --noconsole --name="Executador de Projetos"
+--icon="nomeDoArquivo.ico" --add-data="icon.ico;." --onefile  NomeDoArquiv.pyinstaller
+
